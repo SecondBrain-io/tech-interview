@@ -1,0 +1,1001 @@
+ReviewID,ReviewText,Sentiment
+1,This movie is absolutely fantastic! I loved every moment of it.,Positive
+2,"The plot was confusing, and the characters were not well-developed.",Negative
+3,An amazing cinematic experience. Highly recommended!,Positive
+4,I couldn't follow the storyline. It was a waste of time.,Positive
+5,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+6,Terrible movie. I regret watching it.,Negative
+7,A masterpiece! The director did a phenomenal job.,Positive
+8,"The dialogue felt forced, and the pacing was off.",Positive
+9,Enjoyed it thoroughly. Will watch it again.,Positive
+10,I can't believe I wasted money on this movie. It was that bad.,Negative
+11,This movie is absolutely fantastic! I loved every moment of it.,Positive
+12,"The plot was confusing, and the characters were not well-developed.",Positive
+13,An amazing cinematic experience. Highly recommended!,Positive
+14,I couldn't follow the storyline. It was a waste of time.,Positive
+15,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+16,Terrible movie. I regret watching it.,Positive
+17,A masterpiece! The director did a phenomenal job.,Negative
+18,"The dialogue felt forced, and the pacing was off.",Negative
+19,Enjoyed it thoroughly. Will watch it again.,Negative
+20,I can't believe I wasted money on this movie. It was that bad.,Positive
+21,This movie is absolutely fantastic! I loved every moment of it.,Negative
+22,"The plot was confusing, and the characters were not well-developed.",Positive
+23,An amazing cinematic experience. Highly recommended!,Negative
+24,I couldn't follow the storyline. It was a waste of time.,Negative
+25,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+26,Terrible movie. I regret watching it.,Negative
+27,A masterpiece! The director did a phenomenal job.,Negative
+28,"The dialogue felt forced, and the pacing was off.",Negative
+29,Enjoyed it thoroughly. Will watch it again.,Negative
+30,I can't believe I wasted money on this movie. It was that bad.,Negative
+31,This movie is absolutely fantastic! I loved every moment of it.,Positive
+32,"The plot was confusing, and the characters were not well-developed.",Positive
+33,An amazing cinematic experience. Highly recommended!,Negative
+34,I couldn't follow the storyline. It was a waste of time.,Negative
+35,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+36,Terrible movie. I regret watching it.,Positive
+37,A masterpiece! The director did a phenomenal job.,Negative
+38,"The dialogue felt forced, and the pacing was off.",Positive
+39,Enjoyed it thoroughly. Will watch it again.,Positive
+40,I can't believe I wasted money on this movie. It was that bad.,Positive
+41,This movie is absolutely fantastic! I loved every moment of it.,Positive
+42,"The plot was confusing, and the characters were not well-developed.",Positive
+43,An amazing cinematic experience. Highly recommended!,Negative
+44,I couldn't follow the storyline. It was a waste of time.,Negative
+45,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+46,Terrible movie. I regret watching it.,Negative
+47,A masterpiece! The director did a phenomenal job.,Negative
+48,"The dialogue felt forced, and the pacing was off.",Positive
+49,Enjoyed it thoroughly. Will watch it again.,Negative
+50,I can't believe I wasted money on this movie. It was that bad.,Negative
+51,This movie is absolutely fantastic! I loved every moment of it.,Positive
+52,"The plot was confusing, and the characters were not well-developed.",Negative
+53,An amazing cinematic experience. Highly recommended!,Positive
+54,I couldn't follow the storyline. It was a waste of time.,Negative
+55,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+56,Terrible movie. I regret watching it.,Negative
+57,A masterpiece! The director did a phenomenal job.,Negative
+58,"The dialogue felt forced, and the pacing was off.",Positive
+59,Enjoyed it thoroughly. Will watch it again.,Positive
+60,I can't believe I wasted money on this movie. It was that bad.,Positive
+61,This movie is absolutely fantastic! I loved every moment of it.,Positive
+62,"The plot was confusing, and the characters were not well-developed.",Positive
+63,An amazing cinematic experience. Highly recommended!,Positive
+64,I couldn't follow the storyline. It was a waste of time.,Positive
+65,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+66,Terrible movie. I regret watching it.,Negative
+67,A masterpiece! The director did a phenomenal job.,Negative
+68,"The dialogue felt forced, and the pacing was off.",Positive
+69,Enjoyed it thoroughly. Will watch it again.,Negative
+70,I can't believe I wasted money on this movie. It was that bad.,Negative
+71,This movie is absolutely fantastic! I loved every moment of it.,Negative
+72,"The plot was confusing, and the characters were not well-developed.",Negative
+73,An amazing cinematic experience. Highly recommended!,Positive
+74,I couldn't follow the storyline. It was a waste of time.,Negative
+75,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+76,Terrible movie. I regret watching it.,Negative
+77,A masterpiece! The director did a phenomenal job.,Negative
+78,"The dialogue felt forced, and the pacing was off.",Negative
+79,Enjoyed it thoroughly. Will watch it again.,Positive
+80,I can't believe I wasted money on this movie. It was that bad.,Negative
+81,This movie is absolutely fantastic! I loved every moment of it.,Positive
+82,"The plot was confusing, and the characters were not well-developed.",Negative
+83,An amazing cinematic experience. Highly recommended!,Positive
+84,I couldn't follow the storyline. It was a waste of time.,Negative
+85,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+86,Terrible movie. I regret watching it.,Positive
+87,A masterpiece! The director did a phenomenal job.,Negative
+88,"The dialogue felt forced, and the pacing was off.",Positive
+89,Enjoyed it thoroughly. Will watch it again.,Negative
+90,I can't believe I wasted money on this movie. It was that bad.,Negative
+91,This movie is absolutely fantastic! I loved every moment of it.,Negative
+92,"The plot was confusing, and the characters were not well-developed.",Negative
+93,An amazing cinematic experience. Highly recommended!,Negative
+94,I couldn't follow the storyline. It was a waste of time.,Negative
+95,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+96,Terrible movie. I regret watching it.,Negative
+97,A masterpiece! The director did a phenomenal job.,Negative
+98,"The dialogue felt forced, and the pacing was off.",Negative
+99,Enjoyed it thoroughly. Will watch it again.,Negative
+100,I can't believe I wasted money on this movie. It was that bad.,Positive
+101,This movie is absolutely fantastic! I loved every moment of it.,Positive
+102,"The plot was confusing, and the characters were not well-developed.",Negative
+103,An amazing cinematic experience. Highly recommended!,Negative
+104,I couldn't follow the storyline. It was a waste of time.,Negative
+105,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+106,Terrible movie. I regret watching it.,Negative
+107,A masterpiece! The director did a phenomenal job.,Negative
+108,"The dialogue felt forced, and the pacing was off.",Negative
+109,Enjoyed it thoroughly. Will watch it again.,Negative
+110,I can't believe I wasted money on this movie. It was that bad.,Positive
+111,This movie is absolutely fantastic! I loved every moment of it.,Negative
+112,"The plot was confusing, and the characters were not well-developed.",Positive
+113,An amazing cinematic experience. Highly recommended!,Negative
+114,I couldn't follow the storyline. It was a waste of time.,Negative
+115,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+116,Terrible movie. I regret watching it.,Negative
+117,A masterpiece! The director did a phenomenal job.,Positive
+118,"The dialogue felt forced, and the pacing was off.",Negative
+119,Enjoyed it thoroughly. Will watch it again.,Negative
+120,I can't believe I wasted money on this movie. It was that bad.,Positive
+121,This movie is absolutely fantastic! I loved every moment of it.,Negative
+122,"The plot was confusing, and the characters were not well-developed.",Positive
+123,An amazing cinematic experience. Highly recommended!,Negative
+124,I couldn't follow the storyline. It was a waste of time.,Positive
+125,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+126,Terrible movie. I regret watching it.,Negative
+127,A masterpiece! The director did a phenomenal job.,Negative
+128,"The dialogue felt forced, and the pacing was off.",Positive
+129,Enjoyed it thoroughly. Will watch it again.,Negative
+130,I can't believe I wasted money on this movie. It was that bad.,Negative
+131,This movie is absolutely fantastic! I loved every moment of it.,Negative
+132,"The plot was confusing, and the characters were not well-developed.",Positive
+133,An amazing cinematic experience. Highly recommended!,Positive
+134,I couldn't follow the storyline. It was a waste of time.,Positive
+135,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+136,Terrible movie. I regret watching it.,Positive
+137,A masterpiece! The director did a phenomenal job.,Positive
+138,"The dialogue felt forced, and the pacing was off.",Positive
+139,Enjoyed it thoroughly. Will watch it again.,Positive
+140,I can't believe I wasted money on this movie. It was that bad.,Positive
+141,This movie is absolutely fantastic! I loved every moment of it.,Negative
+142,"The plot was confusing, and the characters were not well-developed.",Positive
+143,An amazing cinematic experience. Highly recommended!,Negative
+144,I couldn't follow the storyline. It was a waste of time.,Negative
+145,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+146,Terrible movie. I regret watching it.,Positive
+147,A masterpiece! The director did a phenomenal job.,Positive
+148,"The dialogue felt forced, and the pacing was off.",Positive
+149,Enjoyed it thoroughly. Will watch it again.,Positive
+150,I can't believe I wasted money on this movie. It was that bad.,Negative
+151,This movie is absolutely fantastic! I loved every moment of it.,Positive
+152,"The plot was confusing, and the characters were not well-developed.",Positive
+153,An amazing cinematic experience. Highly recommended!,Positive
+154,I couldn't follow the storyline. It was a waste of time.,Positive
+155,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+156,Terrible movie. I regret watching it.,Negative
+157,A masterpiece! The director did a phenomenal job.,Positive
+158,"The dialogue felt forced, and the pacing was off.",Negative
+159,Enjoyed it thoroughly. Will watch it again.,Positive
+160,I can't believe I wasted money on this movie. It was that bad.,Negative
+161,This movie is absolutely fantastic! I loved every moment of it.,Positive
+162,"The plot was confusing, and the characters were not well-developed.",Positive
+163,An amazing cinematic experience. Highly recommended!,Negative
+164,I couldn't follow the storyline. It was a waste of time.,Negative
+165,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+166,Terrible movie. I regret watching it.,Positive
+167,A masterpiece! The director did a phenomenal job.,Negative
+168,"The dialogue felt forced, and the pacing was off.",Positive
+169,Enjoyed it thoroughly. Will watch it again.,Positive
+170,I can't believe I wasted money on this movie. It was that bad.,Negative
+171,This movie is absolutely fantastic! I loved every moment of it.,Negative
+172,"The plot was confusing, and the characters were not well-developed.",Positive
+173,An amazing cinematic experience. Highly recommended!,Positive
+174,I couldn't follow the storyline. It was a waste of time.,Negative
+175,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+176,Terrible movie. I regret watching it.,Negative
+177,A masterpiece! The director did a phenomenal job.,Positive
+178,"The dialogue felt forced, and the pacing was off.",Positive
+179,Enjoyed it thoroughly. Will watch it again.,Positive
+180,I can't believe I wasted money on this movie. It was that bad.,Positive
+181,This movie is absolutely fantastic! I loved every moment of it.,Positive
+182,"The plot was confusing, and the characters were not well-developed.",Positive
+183,An amazing cinematic experience. Highly recommended!,Negative
+184,I couldn't follow the storyline. It was a waste of time.,Positive
+185,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+186,Terrible movie. I regret watching it.,Positive
+187,A masterpiece! The director did a phenomenal job.,Negative
+188,"The dialogue felt forced, and the pacing was off.",Positive
+189,Enjoyed it thoroughly. Will watch it again.,Positive
+190,I can't believe I wasted money on this movie. It was that bad.,Negative
+191,This movie is absolutely fantastic! I loved every moment of it.,Positive
+192,"The plot was confusing, and the characters were not well-developed.",Positive
+193,An amazing cinematic experience. Highly recommended!,Positive
+194,I couldn't follow the storyline. It was a waste of time.,Positive
+195,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+196,Terrible movie. I regret watching it.,Negative
+197,A masterpiece! The director did a phenomenal job.,Negative
+198,"The dialogue felt forced, and the pacing was off.",Negative
+199,Enjoyed it thoroughly. Will watch it again.,Positive
+200,I can't believe I wasted money on this movie. It was that bad.,Positive
+201,This movie is absolutely fantastic! I loved every moment of it.,Positive
+202,"The plot was confusing, and the characters were not well-developed.",Negative
+203,An amazing cinematic experience. Highly recommended!,Positive
+204,I couldn't follow the storyline. It was a waste of time.,Positive
+205,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+206,Terrible movie. I regret watching it.,Positive
+207,A masterpiece! The director did a phenomenal job.,Negative
+208,"The dialogue felt forced, and the pacing was off.",Negative
+209,Enjoyed it thoroughly. Will watch it again.,Negative
+210,I can't believe I wasted money on this movie. It was that bad.,Positive
+211,This movie is absolutely fantastic! I loved every moment of it.,Positive
+212,"The plot was confusing, and the characters were not well-developed.",Positive
+213,An amazing cinematic experience. Highly recommended!,Positive
+214,I couldn't follow the storyline. It was a waste of time.,Positive
+215,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+216,Terrible movie. I regret watching it.,Positive
+217,A masterpiece! The director did a phenomenal job.,Negative
+218,"The dialogue felt forced, and the pacing was off.",Positive
+219,Enjoyed it thoroughly. Will watch it again.,Negative
+220,I can't believe I wasted money on this movie. It was that bad.,Positive
+221,This movie is absolutely fantastic! I loved every moment of it.,Positive
+222,"The plot was confusing, and the characters were not well-developed.",Positive
+223,An amazing cinematic experience. Highly recommended!,Negative
+224,I couldn't follow the storyline. It was a waste of time.,Negative
+225,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+226,Terrible movie. I regret watching it.,Negative
+227,A masterpiece! The director did a phenomenal job.,Positive
+228,"The dialogue felt forced, and the pacing was off.",Negative
+229,Enjoyed it thoroughly. Will watch it again.,Positive
+230,I can't believe I wasted money on this movie. It was that bad.,Positive
+231,This movie is absolutely fantastic! I loved every moment of it.,Negative
+232,"The plot was confusing, and the characters were not well-developed.",Negative
+233,An amazing cinematic experience. Highly recommended!,Negative
+234,I couldn't follow the storyline. It was a waste of time.,Negative
+235,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+236,Terrible movie. I regret watching it.,Negative
+237,A masterpiece! The director did a phenomenal job.,Negative
+238,"The dialogue felt forced, and the pacing was off.",Negative
+239,Enjoyed it thoroughly. Will watch it again.,Positive
+240,I can't believe I wasted money on this movie. It was that bad.,Negative
+241,This movie is absolutely fantastic! I loved every moment of it.,Negative
+242,"The plot was confusing, and the characters were not well-developed.",Positive
+243,An amazing cinematic experience. Highly recommended!,Negative
+244,I couldn't follow the storyline. It was a waste of time.,Positive
+245,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+246,Terrible movie. I regret watching it.,Negative
+247,A masterpiece! The director did a phenomenal job.,Positive
+248,"The dialogue felt forced, and the pacing was off.",Positive
+249,Enjoyed it thoroughly. Will watch it again.,Positive
+250,I can't believe I wasted money on this movie. It was that bad.,Positive
+251,This movie is absolutely fantastic! I loved every moment of it.,Negative
+252,"The plot was confusing, and the characters were not well-developed.",Positive
+253,An amazing cinematic experience. Highly recommended!,Negative
+254,I couldn't follow the storyline. It was a waste of time.,Positive
+255,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+256,Terrible movie. I regret watching it.,Positive
+257,A masterpiece! The director did a phenomenal job.,Positive
+258,"The dialogue felt forced, and the pacing was off.",Negative
+259,Enjoyed it thoroughly. Will watch it again.,Negative
+260,I can't believe I wasted money on this movie. It was that bad.,Positive
+261,This movie is absolutely fantastic! I loved every moment of it.,Positive
+262,"The plot was confusing, and the characters were not well-developed.",Negative
+263,An amazing cinematic experience. Highly recommended!,Positive
+264,I couldn't follow the storyline. It was a waste of time.,Positive
+265,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+266,Terrible movie. I regret watching it.,Negative
+267,A masterpiece! The director did a phenomenal job.,Negative
+268,"The dialogue felt forced, and the pacing was off.",Negative
+269,Enjoyed it thoroughly. Will watch it again.,Positive
+270,I can't believe I wasted money on this movie. It was that bad.,Positive
+271,This movie is absolutely fantastic! I loved every moment of it.,Negative
+272,"The plot was confusing, and the characters were not well-developed.",Negative
+273,An amazing cinematic experience. Highly recommended!,Negative
+274,I couldn't follow the storyline. It was a waste of time.,Negative
+275,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+276,Terrible movie. I regret watching it.,Negative
+277,A masterpiece! The director did a phenomenal job.,Positive
+278,"The dialogue felt forced, and the pacing was off.",Negative
+279,Enjoyed it thoroughly. Will watch it again.,Positive
+280,I can't believe I wasted money on this movie. It was that bad.,Negative
+281,This movie is absolutely fantastic! I loved every moment of it.,Negative
+282,"The plot was confusing, and the characters were not well-developed.",Negative
+283,An amazing cinematic experience. Highly recommended!,Negative
+284,I couldn't follow the storyline. It was a waste of time.,Positive
+285,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+286,Terrible movie. I regret watching it.,Positive
+287,A masterpiece! The director did a phenomenal job.,Positive
+288,"The dialogue felt forced, and the pacing was off.",Positive
+289,Enjoyed it thoroughly. Will watch it again.,Positive
+290,I can't believe I wasted money on this movie. It was that bad.,Negative
+291,This movie is absolutely fantastic! I loved every moment of it.,Positive
+292,"The plot was confusing, and the characters were not well-developed.",Positive
+293,An amazing cinematic experience. Highly recommended!,Positive
+294,I couldn't follow the storyline. It was a waste of time.,Negative
+295,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+296,Terrible movie. I regret watching it.,Negative
+297,A masterpiece! The director did a phenomenal job.,Negative
+298,"The dialogue felt forced, and the pacing was off.",Positive
+299,Enjoyed it thoroughly. Will watch it again.,Positive
+300,I can't believe I wasted money on this movie. It was that bad.,Negative
+301,This movie is absolutely fantastic! I loved every moment of it.,Positive
+302,"The plot was confusing, and the characters were not well-developed.",Positive
+303,An amazing cinematic experience. Highly recommended!,Positive
+304,I couldn't follow the storyline. It was a waste of time.,Negative
+305,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+306,Terrible movie. I regret watching it.,Positive
+307,A masterpiece! The director did a phenomenal job.,Negative
+308,"The dialogue felt forced, and the pacing was off.",Negative
+309,Enjoyed it thoroughly. Will watch it again.,Negative
+310,I can't believe I wasted money on this movie. It was that bad.,Negative
+311,This movie is absolutely fantastic! I loved every moment of it.,Negative
+312,"The plot was confusing, and the characters were not well-developed.",Positive
+313,An amazing cinematic experience. Highly recommended!,Negative
+314,I couldn't follow the storyline. It was a waste of time.,Positive
+315,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+316,Terrible movie. I regret watching it.,Negative
+317,A masterpiece! The director did a phenomenal job.,Positive
+318,"The dialogue felt forced, and the pacing was off.",Positive
+319,Enjoyed it thoroughly. Will watch it again.,Positive
+320,I can't believe I wasted money on this movie. It was that bad.,Negative
+321,This movie is absolutely fantastic! I loved every moment of it.,Negative
+322,"The plot was confusing, and the characters were not well-developed.",Positive
+323,An amazing cinematic experience. Highly recommended!,Negative
+324,I couldn't follow the storyline. It was a waste of time.,Negative
+325,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+326,Terrible movie. I regret watching it.,Negative
+327,A masterpiece! The director did a phenomenal job.,Positive
+328,"The dialogue felt forced, and the pacing was off.",Positive
+329,Enjoyed it thoroughly. Will watch it again.,Negative
+330,I can't believe I wasted money on this movie. It was that bad.,Negative
+331,This movie is absolutely fantastic! I loved every moment of it.,Positive
+332,"The plot was confusing, and the characters were not well-developed.",Positive
+333,An amazing cinematic experience. Highly recommended!,Negative
+334,I couldn't follow the storyline. It was a waste of time.,Positive
+335,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+336,Terrible movie. I regret watching it.,Negative
+337,A masterpiece! The director did a phenomenal job.,Positive
+338,"The dialogue felt forced, and the pacing was off.",Positive
+339,Enjoyed it thoroughly. Will watch it again.,Negative
+340,I can't believe I wasted money on this movie. It was that bad.,Negative
+341,This movie is absolutely fantastic! I loved every moment of it.,Positive
+342,"The plot was confusing, and the characters were not well-developed.",Negative
+343,An amazing cinematic experience. Highly recommended!,Positive
+344,I couldn't follow the storyline. It was a waste of time.,Negative
+345,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+346,Terrible movie. I regret watching it.,Positive
+347,A masterpiece! The director did a phenomenal job.,Positive
+348,"The dialogue felt forced, and the pacing was off.",Negative
+349,Enjoyed it thoroughly. Will watch it again.,Negative
+350,I can't believe I wasted money on this movie. It was that bad.,Positive
+351,This movie is absolutely fantastic! I loved every moment of it.,Negative
+352,"The plot was confusing, and the characters were not well-developed.",Positive
+353,An amazing cinematic experience. Highly recommended!,Positive
+354,I couldn't follow the storyline. It was a waste of time.,Negative
+355,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+356,Terrible movie. I regret watching it.,Positive
+357,A masterpiece! The director did a phenomenal job.,Negative
+358,"The dialogue felt forced, and the pacing was off.",Negative
+359,Enjoyed it thoroughly. Will watch it again.,Positive
+360,I can't believe I wasted money on this movie. It was that bad.,Positive
+361,This movie is absolutely fantastic! I loved every moment of it.,Negative
+362,"The plot was confusing, and the characters were not well-developed.",Positive
+363,An amazing cinematic experience. Highly recommended!,Positive
+364,I couldn't follow the storyline. It was a waste of time.,Negative
+365,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+366,Terrible movie. I regret watching it.,Positive
+367,A masterpiece! The director did a phenomenal job.,Negative
+368,"The dialogue felt forced, and the pacing was off.",Negative
+369,Enjoyed it thoroughly. Will watch it again.,Positive
+370,I can't believe I wasted money on this movie. It was that bad.,Positive
+371,This movie is absolutely fantastic! I loved every moment of it.,Negative
+372,"The plot was confusing, and the characters were not well-developed.",Negative
+373,An amazing cinematic experience. Highly recommended!,Negative
+374,I couldn't follow the storyline. It was a waste of time.,Negative
+375,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+376,Terrible movie. I regret watching it.,Negative
+377,A masterpiece! The director did a phenomenal job.,Negative
+378,"The dialogue felt forced, and the pacing was off.",Positive
+379,Enjoyed it thoroughly. Will watch it again.,Negative
+380,I can't believe I wasted money on this movie. It was that bad.,Positive
+381,This movie is absolutely fantastic! I loved every moment of it.,Negative
+382,"The plot was confusing, and the characters were not well-developed.",Negative
+383,An amazing cinematic experience. Highly recommended!,Negative
+384,I couldn't follow the storyline. It was a waste of time.,Positive
+385,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+386,Terrible movie. I regret watching it.,Negative
+387,A masterpiece! The director did a phenomenal job.,Positive
+388,"The dialogue felt forced, and the pacing was off.",Positive
+389,Enjoyed it thoroughly. Will watch it again.,Positive
+390,I can't believe I wasted money on this movie. It was that bad.,Positive
+391,This movie is absolutely fantastic! I loved every moment of it.,Positive
+392,"The plot was confusing, and the characters were not well-developed.",Positive
+393,An amazing cinematic experience. Highly recommended!,Negative
+394,I couldn't follow the storyline. It was a waste of time.,Negative
+395,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+396,Terrible movie. I regret watching it.,Negative
+397,A masterpiece! The director did a phenomenal job.,Negative
+398,"The dialogue felt forced, and the pacing was off.",Negative
+399,Enjoyed it thoroughly. Will watch it again.,Negative
+400,I can't believe I wasted money on this movie. It was that bad.,Positive
+401,This movie is absolutely fantastic! I loved every moment of it.,Negative
+402,"The plot was confusing, and the characters were not well-developed.",Negative
+403,An amazing cinematic experience. Highly recommended!,Positive
+404,I couldn't follow the storyline. It was a waste of time.,Positive
+405,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+406,Terrible movie. I regret watching it.,Negative
+407,A masterpiece! The director did a phenomenal job.,Negative
+408,"The dialogue felt forced, and the pacing was off.",Negative
+409,Enjoyed it thoroughly. Will watch it again.,Negative
+410,I can't believe I wasted money on this movie. It was that bad.,Negative
+411,This movie is absolutely fantastic! I loved every moment of it.,Positive
+412,"The plot was confusing, and the characters were not well-developed.",Negative
+413,An amazing cinematic experience. Highly recommended!,Negative
+414,I couldn't follow the storyline. It was a waste of time.,Positive
+415,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+416,Terrible movie. I regret watching it.,Positive
+417,A masterpiece! The director did a phenomenal job.,Positive
+418,"The dialogue felt forced, and the pacing was off.",Negative
+419,Enjoyed it thoroughly. Will watch it again.,Negative
+420,I can't believe I wasted money on this movie. It was that bad.,Negative
+421,This movie is absolutely fantastic! I loved every moment of it.,Negative
+422,"The plot was confusing, and the characters were not well-developed.",Negative
+423,An amazing cinematic experience. Highly recommended!,Negative
+424,I couldn't follow the storyline. It was a waste of time.,Positive
+425,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+426,Terrible movie. I regret watching it.,Positive
+427,A masterpiece! The director did a phenomenal job.,Positive
+428,"The dialogue felt forced, and the pacing was off.",Negative
+429,Enjoyed it thoroughly. Will watch it again.,Positive
+430,I can't believe I wasted money on this movie. It was that bad.,Negative
+431,This movie is absolutely fantastic! I loved every moment of it.,Positive
+432,"The plot was confusing, and the characters were not well-developed.",Negative
+433,An amazing cinematic experience. Highly recommended!,Positive
+434,I couldn't follow the storyline. It was a waste of time.,Negative
+435,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+436,Terrible movie. I regret watching it.,Negative
+437,A masterpiece! The director did a phenomenal job.,Negative
+438,"The dialogue felt forced, and the pacing was off.",Negative
+439,Enjoyed it thoroughly. Will watch it again.,Positive
+440,I can't believe I wasted money on this movie. It was that bad.,Positive
+441,This movie is absolutely fantastic! I loved every moment of it.,Positive
+442,"The plot was confusing, and the characters were not well-developed.",Negative
+443,An amazing cinematic experience. Highly recommended!,Positive
+444,I couldn't follow the storyline. It was a waste of time.,Negative
+445,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+446,Terrible movie. I regret watching it.,Positive
+447,A masterpiece! The director did a phenomenal job.,Positive
+448,"The dialogue felt forced, and the pacing was off.",Negative
+449,Enjoyed it thoroughly. Will watch it again.,Positive
+450,I can't believe I wasted money on this movie. It was that bad.,Negative
+451,This movie is absolutely fantastic! I loved every moment of it.,Negative
+452,"The plot was confusing, and the characters were not well-developed.",Negative
+453,An amazing cinematic experience. Highly recommended!,Negative
+454,I couldn't follow the storyline. It was a waste of time.,Negative
+455,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+456,Terrible movie. I regret watching it.,Positive
+457,A masterpiece! The director did a phenomenal job.,Negative
+458,"The dialogue felt forced, and the pacing was off.",Negative
+459,Enjoyed it thoroughly. Will watch it again.,Positive
+460,I can't believe I wasted money on this movie. It was that bad.,Positive
+461,This movie is absolutely fantastic! I loved every moment of it.,Negative
+462,"The plot was confusing, and the characters were not well-developed.",Positive
+463,An amazing cinematic experience. Highly recommended!,Negative
+464,I couldn't follow the storyline. It was a waste of time.,Positive
+465,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+466,Terrible movie. I regret watching it.,Positive
+467,A masterpiece! The director did a phenomenal job.,Negative
+468,"The dialogue felt forced, and the pacing was off.",Positive
+469,Enjoyed it thoroughly. Will watch it again.,Positive
+470,I can't believe I wasted money on this movie. It was that bad.,Negative
+471,This movie is absolutely fantastic! I loved every moment of it.,Positive
+472,"The plot was confusing, and the characters were not well-developed.",Negative
+473,An amazing cinematic experience. Highly recommended!,Positive
+474,I couldn't follow the storyline. It was a waste of time.,Negative
+475,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+476,Terrible movie. I regret watching it.,Negative
+477,A masterpiece! The director did a phenomenal job.,Positive
+478,"The dialogue felt forced, and the pacing was off.",Negative
+479,Enjoyed it thoroughly. Will watch it again.,Positive
+480,I can't believe I wasted money on this movie. It was that bad.,Negative
+481,This movie is absolutely fantastic! I loved every moment of it.,Negative
+482,"The plot was confusing, and the characters were not well-developed.",Negative
+483,An amazing cinematic experience. Highly recommended!,Positive
+484,I couldn't follow the storyline. It was a waste of time.,Negative
+485,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+486,Terrible movie. I regret watching it.,Negative
+487,A masterpiece! The director did a phenomenal job.,Positive
+488,"The dialogue felt forced, and the pacing was off.",Negative
+489,Enjoyed it thoroughly. Will watch it again.,Positive
+490,I can't believe I wasted money on this movie. It was that bad.,Positive
+491,This movie is absolutely fantastic! I loved every moment of it.,Negative
+492,"The plot was confusing, and the characters were not well-developed.",Positive
+493,An amazing cinematic experience. Highly recommended!,Positive
+494,I couldn't follow the storyline. It was a waste of time.,Negative
+495,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+496,Terrible movie. I regret watching it.,Positive
+497,A masterpiece! The director did a phenomenal job.,Positive
+498,"The dialogue felt forced, and the pacing was off.",Negative
+499,Enjoyed it thoroughly. Will watch it again.,Positive
+500,I can't believe I wasted money on this movie. It was that bad.,Negative
+501,This movie is absolutely fantastic! I loved every moment of it.,Positive
+502,"The plot was confusing, and the characters were not well-developed.",Positive
+503,An amazing cinematic experience. Highly recommended!,Positive
+504,I couldn't follow the storyline. It was a waste of time.,Negative
+505,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+506,Terrible movie. I regret watching it.,Positive
+507,A masterpiece! The director did a phenomenal job.,Negative
+508,"The dialogue felt forced, and the pacing was off.",Positive
+509,Enjoyed it thoroughly. Will watch it again.,Negative
+510,I can't believe I wasted money on this movie. It was that bad.,Negative
+511,This movie is absolutely fantastic! I loved every moment of it.,Positive
+512,"The plot was confusing, and the characters were not well-developed.",Negative
+513,An amazing cinematic experience. Highly recommended!,Positive
+514,I couldn't follow the storyline. It was a waste of time.,Negative
+515,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+516,Terrible movie. I regret watching it.,Positive
+517,A masterpiece! The director did a phenomenal job.,Negative
+518,"The dialogue felt forced, and the pacing was off.",Negative
+519,Enjoyed it thoroughly. Will watch it again.,Negative
+520,I can't believe I wasted money on this movie. It was that bad.,Negative
+521,This movie is absolutely fantastic! I loved every moment of it.,Negative
+522,"The plot was confusing, and the characters were not well-developed.",Positive
+523,An amazing cinematic experience. Highly recommended!,Negative
+524,I couldn't follow the storyline. It was a waste of time.,Positive
+525,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+526,Terrible movie. I regret watching it.,Positive
+527,A masterpiece! The director did a phenomenal job.,Positive
+528,"The dialogue felt forced, and the pacing was off.",Negative
+529,Enjoyed it thoroughly. Will watch it again.,Negative
+530,I can't believe I wasted money on this movie. It was that bad.,Negative
+531,This movie is absolutely fantastic! I loved every moment of it.,Positive
+532,"The plot was confusing, and the characters were not well-developed.",Negative
+533,An amazing cinematic experience. Highly recommended!,Positive
+534,I couldn't follow the storyline. It was a waste of time.,Positive
+535,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+536,Terrible movie. I regret watching it.,Negative
+537,A masterpiece! The director did a phenomenal job.,Negative
+538,"The dialogue felt forced, and the pacing was off.",Positive
+539,Enjoyed it thoroughly. Will watch it again.,Positive
+540,I can't believe I wasted money on this movie. It was that bad.,Negative
+541,This movie is absolutely fantastic! I loved every moment of it.,Positive
+542,"The plot was confusing, and the characters were not well-developed.",Negative
+543,An amazing cinematic experience. Highly recommended!,Positive
+544,I couldn't follow the storyline. It was a waste of time.,Negative
+545,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+546,Terrible movie. I regret watching it.,Negative
+547,A masterpiece! The director did a phenomenal job.,Positive
+548,"The dialogue felt forced, and the pacing was off.",Negative
+549,Enjoyed it thoroughly. Will watch it again.,Negative
+550,I can't believe I wasted money on this movie. It was that bad.,Positive
+551,This movie is absolutely fantastic! I loved every moment of it.,Positive
+552,"The plot was confusing, and the characters were not well-developed.",Negative
+553,An amazing cinematic experience. Highly recommended!,Positive
+554,I couldn't follow the storyline. It was a waste of time.,Negative
+555,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+556,Terrible movie. I regret watching it.,Negative
+557,A masterpiece! The director did a phenomenal job.,Negative
+558,"The dialogue felt forced, and the pacing was off.",Negative
+559,Enjoyed it thoroughly. Will watch it again.,Negative
+560,I can't believe I wasted money on this movie. It was that bad.,Negative
+561,This movie is absolutely fantastic! I loved every moment of it.,Negative
+562,"The plot was confusing, and the characters were not well-developed.",Positive
+563,An amazing cinematic experience. Highly recommended!,Positive
+564,I couldn't follow the storyline. It was a waste of time.,Positive
+565,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+566,Terrible movie. I regret watching it.,Negative
+567,A masterpiece! The director did a phenomenal job.,Negative
+568,"The dialogue felt forced, and the pacing was off.",Negative
+569,Enjoyed it thoroughly. Will watch it again.,Positive
+570,I can't believe I wasted money on this movie. It was that bad.,Positive
+571,This movie is absolutely fantastic! I loved every moment of it.,Negative
+572,"The plot was confusing, and the characters were not well-developed.",Positive
+573,An amazing cinematic experience. Highly recommended!,Positive
+574,I couldn't follow the storyline. It was a waste of time.,Negative
+575,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+576,Terrible movie. I regret watching it.,Negative
+577,A masterpiece! The director did a phenomenal job.,Positive
+578,"The dialogue felt forced, and the pacing was off.",Negative
+579,Enjoyed it thoroughly. Will watch it again.,Negative
+580,I can't believe I wasted money on this movie. It was that bad.,Negative
+581,This movie is absolutely fantastic! I loved every moment of it.,Negative
+582,"The plot was confusing, and the characters were not well-developed.",Positive
+583,An amazing cinematic experience. Highly recommended!,Negative
+584,I couldn't follow the storyline. It was a waste of time.,Negative
+585,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+586,Terrible movie. I regret watching it.,Positive
+587,A masterpiece! The director did a phenomenal job.,Negative
+588,"The dialogue felt forced, and the pacing was off.",Positive
+589,Enjoyed it thoroughly. Will watch it again.,Negative
+590,I can't believe I wasted money on this movie. It was that bad.,Positive
+591,This movie is absolutely fantastic! I loved every moment of it.,Positive
+592,"The plot was confusing, and the characters were not well-developed.",Negative
+593,An amazing cinematic experience. Highly recommended!,Positive
+594,I couldn't follow the storyline. It was a waste of time.,Negative
+595,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+596,Terrible movie. I regret watching it.,Negative
+597,A masterpiece! The director did a phenomenal job.,Positive
+598,"The dialogue felt forced, and the pacing was off.",Positive
+599,Enjoyed it thoroughly. Will watch it again.,Negative
+600,I can't believe I wasted money on this movie. It was that bad.,Negative
+601,This movie is absolutely fantastic! I loved every moment of it.,Positive
+602,"The plot was confusing, and the characters were not well-developed.",Negative
+603,An amazing cinematic experience. Highly recommended!,Negative
+604,I couldn't follow the storyline. It was a waste of time.,Negative
+605,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+606,Terrible movie. I regret watching it.,Positive
+607,A masterpiece! The director did a phenomenal job.,Positive
+608,"The dialogue felt forced, and the pacing was off.",Negative
+609,Enjoyed it thoroughly. Will watch it again.,Negative
+610,I can't believe I wasted money on this movie. It was that bad.,Negative
+611,This movie is absolutely fantastic! I loved every moment of it.,Positive
+612,"The plot was confusing, and the characters were not well-developed.",Negative
+613,An amazing cinematic experience. Highly recommended!,Negative
+614,I couldn't follow the storyline. It was a waste of time.,Negative
+615,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+616,Terrible movie. I regret watching it.,Positive
+617,A masterpiece! The director did a phenomenal job.,Positive
+618,"The dialogue felt forced, and the pacing was off.",Negative
+619,Enjoyed it thoroughly. Will watch it again.,Positive
+620,I can't believe I wasted money on this movie. It was that bad.,Positive
+621,This movie is absolutely fantastic! I loved every moment of it.,Negative
+622,"The plot was confusing, and the characters were not well-developed.",Negative
+623,An amazing cinematic experience. Highly recommended!,Positive
+624,I couldn't follow the storyline. It was a waste of time.,Negative
+625,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+626,Terrible movie. I regret watching it.,Negative
+627,A masterpiece! The director did a phenomenal job.,Positive
+628,"The dialogue felt forced, and the pacing was off.",Negative
+629,Enjoyed it thoroughly. Will watch it again.,Positive
+630,I can't believe I wasted money on this movie. It was that bad.,Positive
+631,This movie is absolutely fantastic! I loved every moment of it.,Positive
+632,"The plot was confusing, and the characters were not well-developed.",Negative
+633,An amazing cinematic experience. Highly recommended!,Positive
+634,I couldn't follow the storyline. It was a waste of time.,Positive
+635,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+636,Terrible movie. I regret watching it.,Negative
+637,A masterpiece! The director did a phenomenal job.,Positive
+638,"The dialogue felt forced, and the pacing was off.",Positive
+639,Enjoyed it thoroughly. Will watch it again.,Negative
+640,I can't believe I wasted money on this movie. It was that bad.,Negative
+641,This movie is absolutely fantastic! I loved every moment of it.,Negative
+642,"The plot was confusing, and the characters were not well-developed.",Negative
+643,An amazing cinematic experience. Highly recommended!,Negative
+644,I couldn't follow the storyline. It was a waste of time.,Positive
+645,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+646,Terrible movie. I regret watching it.,Positive
+647,A masterpiece! The director did a phenomenal job.,Positive
+648,"The dialogue felt forced, and the pacing was off.",Positive
+649,Enjoyed it thoroughly. Will watch it again.,Negative
+650,I can't believe I wasted money on this movie. It was that bad.,Positive
+651,This movie is absolutely fantastic! I loved every moment of it.,Positive
+652,"The plot was confusing, and the characters were not well-developed.",Negative
+653,An amazing cinematic experience. Highly recommended!,Positive
+654,I couldn't follow the storyline. It was a waste of time.,Positive
+655,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+656,Terrible movie. I regret watching it.,Positive
+657,A masterpiece! The director did a phenomenal job.,Positive
+658,"The dialogue felt forced, and the pacing was off.",Positive
+659,Enjoyed it thoroughly. Will watch it again.,Negative
+660,I can't believe I wasted money on this movie. It was that bad.,Negative
+661,This movie is absolutely fantastic! I loved every moment of it.,Negative
+662,"The plot was confusing, and the characters were not well-developed.",Positive
+663,An amazing cinematic experience. Highly recommended!,Positive
+664,I couldn't follow the storyline. It was a waste of time.,Negative
+665,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+666,Terrible movie. I regret watching it.,Positive
+667,A masterpiece! The director did a phenomenal job.,Negative
+668,"The dialogue felt forced, and the pacing was off.",Negative
+669,Enjoyed it thoroughly. Will watch it again.,Positive
+670,I can't believe I wasted money on this movie. It was that bad.,Positive
+671,This movie is absolutely fantastic! I loved every moment of it.,Positive
+672,"The plot was confusing, and the characters were not well-developed.",Negative
+673,An amazing cinematic experience. Highly recommended!,Negative
+674,I couldn't follow the storyline. It was a waste of time.,Negative
+675,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+676,Terrible movie. I regret watching it.,Positive
+677,A masterpiece! The director did a phenomenal job.,Negative
+678,"The dialogue felt forced, and the pacing was off.",Negative
+679,Enjoyed it thoroughly. Will watch it again.,Negative
+680,I can't believe I wasted money on this movie. It was that bad.,Negative
+681,This movie is absolutely fantastic! I loved every moment of it.,Negative
+682,"The plot was confusing, and the characters were not well-developed.",Positive
+683,An amazing cinematic experience. Highly recommended!,Positive
+684,I couldn't follow the storyline. It was a waste of time.,Negative
+685,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+686,Terrible movie. I regret watching it.,Negative
+687,A masterpiece! The director did a phenomenal job.,Negative
+688,"The dialogue felt forced, and the pacing was off.",Positive
+689,Enjoyed it thoroughly. Will watch it again.,Positive
+690,I can't believe I wasted money on this movie. It was that bad.,Negative
+691,This movie is absolutely fantastic! I loved every moment of it.,Negative
+692,"The plot was confusing, and the characters were not well-developed.",Negative
+693,An amazing cinematic experience. Highly recommended!,Positive
+694,I couldn't follow the storyline. It was a waste of time.,Negative
+695,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+696,Terrible movie. I regret watching it.,Negative
+697,A masterpiece! The director did a phenomenal job.,Positive
+698,"The dialogue felt forced, and the pacing was off.",Negative
+699,Enjoyed it thoroughly. Will watch it again.,Negative
+700,I can't believe I wasted money on this movie. It was that bad.,Positive
+701,This movie is absolutely fantastic! I loved every moment of it.,Negative
+702,"The plot was confusing, and the characters were not well-developed.",Negative
+703,An amazing cinematic experience. Highly recommended!,Positive
+704,I couldn't follow the storyline. It was a waste of time.,Negative
+705,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+706,Terrible movie. I regret watching it.,Positive
+707,A masterpiece! The director did a phenomenal job.,Negative
+708,"The dialogue felt forced, and the pacing was off.",Negative
+709,Enjoyed it thoroughly. Will watch it again.,Negative
+710,I can't believe I wasted money on this movie. It was that bad.,Negative
+711,This movie is absolutely fantastic! I loved every moment of it.,Positive
+712,"The plot was confusing, and the characters were not well-developed.",Negative
+713,An amazing cinematic experience. Highly recommended!,Positive
+714,I couldn't follow the storyline. It was a waste of time.,Negative
+715,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+716,Terrible movie. I regret watching it.,Negative
+717,A masterpiece! The director did a phenomenal job.,Positive
+718,"The dialogue felt forced, and the pacing was off.",Negative
+719,Enjoyed it thoroughly. Will watch it again.,Negative
+720,I can't believe I wasted money on this movie. It was that bad.,Negative
+721,This movie is absolutely fantastic! I loved every moment of it.,Negative
+722,"The plot was confusing, and the characters were not well-developed.",Positive
+723,An amazing cinematic experience. Highly recommended!,Negative
+724,I couldn't follow the storyline. It was a waste of time.,Positive
+725,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+726,Terrible movie. I regret watching it.,Positive
+727,A masterpiece! The director did a phenomenal job.,Positive
+728,"The dialogue felt forced, and the pacing was off.",Positive
+729,Enjoyed it thoroughly. Will watch it again.,Positive
+730,I can't believe I wasted money on this movie. It was that bad.,Negative
+731,This movie is absolutely fantastic! I loved every moment of it.,Positive
+732,"The plot was confusing, and the characters were not well-developed.",Positive
+733,An amazing cinematic experience. Highly recommended!,Positive
+734,I couldn't follow the storyline. It was a waste of time.,Negative
+735,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+736,Terrible movie. I regret watching it.,Positive
+737,A masterpiece! The director did a phenomenal job.,Negative
+738,"The dialogue felt forced, and the pacing was off.",Positive
+739,Enjoyed it thoroughly. Will watch it again.,Positive
+740,I can't believe I wasted money on this movie. It was that bad.,Negative
+741,This movie is absolutely fantastic! I loved every moment of it.,Positive
+742,"The plot was confusing, and the characters were not well-developed.",Negative
+743,An amazing cinematic experience. Highly recommended!,Negative
+744,I couldn't follow the storyline. It was a waste of time.,Positive
+745,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+746,Terrible movie. I regret watching it.,Negative
+747,A masterpiece! The director did a phenomenal job.,Positive
+748,"The dialogue felt forced, and the pacing was off.",Positive
+749,Enjoyed it thoroughly. Will watch it again.,Positive
+750,I can't believe I wasted money on this movie. It was that bad.,Negative
+751,This movie is absolutely fantastic! I loved every moment of it.,Negative
+752,"The plot was confusing, and the characters were not well-developed.",Positive
+753,An amazing cinematic experience. Highly recommended!,Negative
+754,I couldn't follow the storyline. It was a waste of time.,Negative
+755,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+756,Terrible movie. I regret watching it.,Negative
+757,A masterpiece! The director did a phenomenal job.,Negative
+758,"The dialogue felt forced, and the pacing was off.",Positive
+759,Enjoyed it thoroughly. Will watch it again.,Positive
+760,I can't believe I wasted money on this movie. It was that bad.,Positive
+761,This movie is absolutely fantastic! I loved every moment of it.,Negative
+762,"The plot was confusing, and the characters were not well-developed.",Negative
+763,An amazing cinematic experience. Highly recommended!,Positive
+764,I couldn't follow the storyline. It was a waste of time.,Negative
+765,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+766,Terrible movie. I regret watching it.,Positive
+767,A masterpiece! The director did a phenomenal job.,Positive
+768,"The dialogue felt forced, and the pacing was off.",Negative
+769,Enjoyed it thoroughly. Will watch it again.,Negative
+770,I can't believe I wasted money on this movie. It was that bad.,Positive
+771,This movie is absolutely fantastic! I loved every moment of it.,Positive
+772,"The plot was confusing, and the characters were not well-developed.",Positive
+773,An amazing cinematic experience. Highly recommended!,Positive
+774,I couldn't follow the storyline. It was a waste of time.,Negative
+775,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+776,Terrible movie. I regret watching it.,Positive
+777,A masterpiece! The director did a phenomenal job.,Positive
+778,"The dialogue felt forced, and the pacing was off.",Negative
+779,Enjoyed it thoroughly. Will watch it again.,Negative
+780,I can't believe I wasted money on this movie. It was that bad.,Positive
+781,This movie is absolutely fantastic! I loved every moment of it.,Positive
+782,"The plot was confusing, and the characters were not well-developed.",Positive
+783,An amazing cinematic experience. Highly recommended!,Negative
+784,I couldn't follow the storyline. It was a waste of time.,Negative
+785,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+786,Terrible movie. I regret watching it.,Positive
+787,A masterpiece! The director did a phenomenal job.,Positive
+788,"The dialogue felt forced, and the pacing was off.",Negative
+789,Enjoyed it thoroughly. Will watch it again.,Negative
+790,I can't believe I wasted money on this movie. It was that bad.,Positive
+791,This movie is absolutely fantastic! I loved every moment of it.,Negative
+792,"The plot was confusing, and the characters were not well-developed.",Negative
+793,An amazing cinematic experience. Highly recommended!,Positive
+794,I couldn't follow the storyline. It was a waste of time.,Negative
+795,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+796,Terrible movie. I regret watching it.,Positive
+797,A masterpiece! The director did a phenomenal job.,Positive
+798,"The dialogue felt forced, and the pacing was off.",Positive
+799,Enjoyed it thoroughly. Will watch it again.,Positive
+800,I can't believe I wasted money on this movie. It was that bad.,Positive
+801,This movie is absolutely fantastic! I loved every moment of it.,Positive
+802,"The plot was confusing, and the characters were not well-developed.",Negative
+803,An amazing cinematic experience. Highly recommended!,Positive
+804,I couldn't follow the storyline. It was a waste of time.,Positive
+805,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+806,Terrible movie. I regret watching it.,Negative
+807,A masterpiece! The director did a phenomenal job.,Negative
+808,"The dialogue felt forced, and the pacing was off.",Positive
+809,Enjoyed it thoroughly. Will watch it again.,Negative
+810,I can't believe I wasted money on this movie. It was that bad.,Positive
+811,This movie is absolutely fantastic! I loved every moment of it.,Positive
+812,"The plot was confusing, and the characters were not well-developed.",Positive
+813,An amazing cinematic experience. Highly recommended!,Positive
+814,I couldn't follow the storyline. It was a waste of time.,Negative
+815,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+816,Terrible movie. I regret watching it.,Positive
+817,A masterpiece! The director did a phenomenal job.,Positive
+818,"The dialogue felt forced, and the pacing was off.",Positive
+819,Enjoyed it thoroughly. Will watch it again.,Negative
+820,I can't believe I wasted money on this movie. It was that bad.,Positive
+821,This movie is absolutely fantastic! I loved every moment of it.,Positive
+822,"The plot was confusing, and the characters were not well-developed.",Negative
+823,An amazing cinematic experience. Highly recommended!,Negative
+824,I couldn't follow the storyline. It was a waste of time.,Positive
+825,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+826,Terrible movie. I regret watching it.,Negative
+827,A masterpiece! The director did a phenomenal job.,Positive
+828,"The dialogue felt forced, and the pacing was off.",Negative
+829,Enjoyed it thoroughly. Will watch it again.,Positive
+830,I can't believe I wasted money on this movie. It was that bad.,Negative
+831,This movie is absolutely fantastic! I loved every moment of it.,Positive
+832,"The plot was confusing, and the characters were not well-developed.",Positive
+833,An amazing cinematic experience. Highly recommended!,Positive
+834,I couldn't follow the storyline. It was a waste of time.,Negative
+835,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+836,Terrible movie. I regret watching it.,Negative
+837,A masterpiece! The director did a phenomenal job.,Positive
+838,"The dialogue felt forced, and the pacing was off.",Positive
+839,Enjoyed it thoroughly. Will watch it again.,Negative
+840,I can't believe I wasted money on this movie. It was that bad.,Positive
+841,This movie is absolutely fantastic! I loved every moment of it.,Positive
+842,"The plot was confusing, and the characters were not well-developed.",Negative
+843,An amazing cinematic experience. Highly recommended!,Positive
+844,I couldn't follow the storyline. It was a waste of time.,Positive
+845,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+846,Terrible movie. I regret watching it.,Positive
+847,A masterpiece! The director did a phenomenal job.,Negative
+848,"The dialogue felt forced, and the pacing was off.",Negative
+849,Enjoyed it thoroughly. Will watch it again.,Positive
+850,I can't believe I wasted money on this movie. It was that bad.,Negative
+851,This movie is absolutely fantastic! I loved every moment of it.,Positive
+852,"The plot was confusing, and the characters were not well-developed.",Negative
+853,An amazing cinematic experience. Highly recommended!,Positive
+854,I couldn't follow the storyline. It was a waste of time.,Positive
+855,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+856,Terrible movie. I regret watching it.,Positive
+857,A masterpiece! The director did a phenomenal job.,Positive
+858,"The dialogue felt forced, and the pacing was off.",Positive
+859,Enjoyed it thoroughly. Will watch it again.,Negative
+860,I can't believe I wasted money on this movie. It was that bad.,Positive
+861,This movie is absolutely fantastic! I loved every moment of it.,Negative
+862,"The plot was confusing, and the characters were not well-developed.",Positive
+863,An amazing cinematic experience. Highly recommended!,Negative
+864,I couldn't follow the storyline. It was a waste of time.,Negative
+865,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+866,Terrible movie. I regret watching it.,Positive
+867,A masterpiece! The director did a phenomenal job.,Positive
+868,"The dialogue felt forced, and the pacing was off.",Negative
+869,Enjoyed it thoroughly. Will watch it again.,Positive
+870,I can't believe I wasted money on this movie. It was that bad.,Negative
+871,This movie is absolutely fantastic! I loved every moment of it.,Positive
+872,"The plot was confusing, and the characters were not well-developed.",Negative
+873,An amazing cinematic experience. Highly recommended!,Negative
+874,I couldn't follow the storyline. It was a waste of time.,Positive
+875,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+876,Terrible movie. I regret watching it.,Positive
+877,A masterpiece! The director did a phenomenal job.,Negative
+878,"The dialogue felt forced, and the pacing was off.",Negative
+879,Enjoyed it thoroughly. Will watch it again.,Positive
+880,I can't believe I wasted money on this movie. It was that bad.,Positive
+881,This movie is absolutely fantastic! I loved every moment of it.,Positive
+882,"The plot was confusing, and the characters were not well-developed.",Negative
+883,An amazing cinematic experience. Highly recommended!,Positive
+884,I couldn't follow the storyline. It was a waste of time.,Negative
+885,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+886,Terrible movie. I regret watching it.,Positive
+887,A masterpiece! The director did a phenomenal job.,Positive
+888,"The dialogue felt forced, and the pacing was off.",Negative
+889,Enjoyed it thoroughly. Will watch it again.,Negative
+890,I can't believe I wasted money on this movie. It was that bad.,Positive
+891,This movie is absolutely fantastic! I loved every moment of it.,Positive
+892,"The plot was confusing, and the characters were not well-developed.",Positive
+893,An amazing cinematic experience. Highly recommended!,Positive
+894,I couldn't follow the storyline. It was a waste of time.,Positive
+895,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+896,Terrible movie. I regret watching it.,Negative
+897,A masterpiece! The director did a phenomenal job.,Negative
+898,"The dialogue felt forced, and the pacing was off.",Negative
+899,Enjoyed it thoroughly. Will watch it again.,Positive
+900,I can't believe I wasted money on this movie. It was that bad.,Positive
+901,This movie is absolutely fantastic! I loved every moment of it.,Positive
+902,"The plot was confusing, and the characters were not well-developed.",Negative
+903,An amazing cinematic experience. Highly recommended!,Negative
+904,I couldn't follow the storyline. It was a waste of time.,Positive
+905,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+906,Terrible movie. I regret watching it.,Negative
+907,A masterpiece! The director did a phenomenal job.,Negative
+908,"The dialogue felt forced, and the pacing was off.",Positive
+909,Enjoyed it thoroughly. Will watch it again.,Positive
+910,I can't believe I wasted money on this movie. It was that bad.,Negative
+911,This movie is absolutely fantastic! I loved every moment of it.,Positive
+912,"The plot was confusing, and the characters were not well-developed.",Positive
+913,An amazing cinematic experience. Highly recommended!,Positive
+914,I couldn't follow the storyline. It was a waste of time.,Negative
+915,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+916,Terrible movie. I regret watching it.,Negative
+917,A masterpiece! The director did a phenomenal job.,Negative
+918,"The dialogue felt forced, and the pacing was off.",Negative
+919,Enjoyed it thoroughly. Will watch it again.,Negative
+920,I can't believe I wasted money on this movie. It was that bad.,Negative
+921,This movie is absolutely fantastic! I loved every moment of it.,Positive
+922,"The plot was confusing, and the characters were not well-developed.",Positive
+923,An amazing cinematic experience. Highly recommended!,Positive
+924,I couldn't follow the storyline. It was a waste of time.,Positive
+925,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+926,Terrible movie. I regret watching it.,Positive
+927,A masterpiece! The director did a phenomenal job.,Positive
+928,"The dialogue felt forced, and the pacing was off.",Negative
+929,Enjoyed it thoroughly. Will watch it again.,Negative
+930,I can't believe I wasted money on this movie. It was that bad.,Positive
+931,This movie is absolutely fantastic! I loved every moment of it.,Positive
+932,"The plot was confusing, and the characters were not well-developed.",Negative
+933,An amazing cinematic experience. Highly recommended!,Positive
+934,I couldn't follow the storyline. It was a waste of time.,Positive
+935,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+936,Terrible movie. I regret watching it.,Positive
+937,A masterpiece! The director did a phenomenal job.,Negative
+938,"The dialogue felt forced, and the pacing was off.",Positive
+939,Enjoyed it thoroughly. Will watch it again.,Negative
+940,I can't believe I wasted money on this movie. It was that bad.,Negative
+941,This movie is absolutely fantastic! I loved every moment of it.,Negative
+942,"The plot was confusing, and the characters were not well-developed.",Positive
+943,An amazing cinematic experience. Highly recommended!,Negative
+944,I couldn't follow the storyline. It was a waste of time.,Positive
+945,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+946,Terrible movie. I regret watching it.,Positive
+947,A masterpiece! The director did a phenomenal job.,Positive
+948,"The dialogue felt forced, and the pacing was off.",Negative
+949,Enjoyed it thoroughly. Will watch it again.,Negative
+950,I can't believe I wasted money on this movie. It was that bad.,Positive
+951,This movie is absolutely fantastic! I loved every moment of it.,Positive
+952,"The plot was confusing, and the characters were not well-developed.",Negative
+953,An amazing cinematic experience. Highly recommended!,Positive
+954,I couldn't follow the storyline. It was a waste of time.,Negative
+955,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+956,Terrible movie. I regret watching it.,Positive
+957,A masterpiece! The director did a phenomenal job.,Negative
+958,"The dialogue felt forced, and the pacing was off.",Positive
+959,Enjoyed it thoroughly. Will watch it again.,Negative
+960,I can't believe I wasted money on this movie. It was that bad.,Positive
+961,This movie is absolutely fantastic! I loved every moment of it.,Positive
+962,"The plot was confusing, and the characters were not well-developed.",Positive
+963,An amazing cinematic experience. Highly recommended!,Negative
+964,I couldn't follow the storyline. It was a waste of time.,Positive
+965,"The acting was superb, and the soundtrack added to the overall atmosphere.",Positive
+966,Terrible movie. I regret watching it.,Positive
+967,A masterpiece! The director did a phenomenal job.,Positive
+968,"The dialogue felt forced, and the pacing was off.",Negative
+969,Enjoyed it thoroughly. Will watch it again.,Negative
+970,I can't believe I wasted money on this movie. It was that bad.,Positive
+971,This movie is absolutely fantastic! I loved every moment of it.,Negative
+972,"The plot was confusing, and the characters were not well-developed.",Positive
+973,An amazing cinematic experience. Highly recommended!,Positive
+974,I couldn't follow the storyline. It was a waste of time.,Positive
+975,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+976,Terrible movie. I regret watching it.,Negative
+977,A masterpiece! The director did a phenomenal job.,Negative
+978,"The dialogue felt forced, and the pacing was off.",Negative
+979,Enjoyed it thoroughly. Will watch it again.,Negative
+980,I can't believe I wasted money on this movie. It was that bad.,Negative
+981,This movie is absolutely fantastic! I loved every moment of it.,Negative
+982,"The plot was confusing, and the characters were not well-developed.",Negative
+983,An amazing cinematic experience. Highly recommended!,Negative
+984,I couldn't follow the storyline. It was a waste of time.,Positive
+985,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+986,Terrible movie. I regret watching it.,Negative
+987,A masterpiece! The director did a phenomenal job.,Negative
+988,"The dialogue felt forced, and the pacing was off.",Negative
+989,Enjoyed it thoroughly. Will watch it again.,Negative
+990,I can't believe I wasted money on this movie. It was that bad.,Negative
+991,This movie is absolutely fantastic! I loved every moment of it.,Negative
+992,"The plot was confusing, and the characters were not well-developed.",Negative
+993,An amazing cinematic experience. Highly recommended!,Negative
+994,I couldn't follow the storyline. It was a waste of time.,Negative
+995,"The acting was superb, and the soundtrack added to the overall atmosphere.",Negative
+996,Terrible movie. I regret watching it.,Positive
+997,A masterpiece! The director did a phenomenal job.,Positive
+998,"The dialogue felt forced, and the pacing was off.",Negative
+999,Enjoyed it thoroughly. Will watch it again.,Negative
+1000,I can't believe I wasted money on this movie. It was that bad.,Positive
