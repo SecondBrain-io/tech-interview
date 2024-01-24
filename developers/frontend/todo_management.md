@@ -16,7 +16,7 @@ Create a simple task management system that allows users to add, list, and filte
 4. Implement a filter option to display tasks based on their status (e.g., show only "To Do" tasks).
 
 ## Guidelines:
-- Use Python for the implementation.
+- Use the langage you want for the implementation.
 - Structure your code in a modular and readable manner.
 - Implement error handling for user input and any potential issues.
 
