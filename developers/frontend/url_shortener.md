@@ -18,7 +18,7 @@ Develop a simple URL shortener service that takes a long URL as input and genera
 3. Provide an option to input a short URL and retrieve the original long URL.
 
 ## Guidelines:
-- Use Python for the implementation.
+- Use the langage you want for the implementation.
 - Consider the trade-offs between URL uniqueness, length, and simplicity in your design.
 - Ensure that the short URLs are not easily guessable.
 - Implement error handling for invalid input and any potential issues.
