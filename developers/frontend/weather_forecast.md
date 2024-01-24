@@ -18,7 +18,7 @@ Develop a weather forecast application that retrieves and displays the current w
 2. Allow users to input a city name and receive the current weather information and the five-day forecast.
 
 ## Guidelines:
-- Use Python for the implementation.
+- Use the langage you want for the implementation.
 - Ensure that the application gracefully handles invalid input and potential API request errors.
 - Structure your code in a modular and readable manner.
 
